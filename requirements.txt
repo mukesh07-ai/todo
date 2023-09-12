@@ -1,6 +1,6 @@
 ﻿asgiref==3.7.2
 dj-database-url==2.1.0
-Django== 1.3.6
+Django==1.3.6
 djongo==2.3.0
 dnspython==2.4.2
 environ==1.0
